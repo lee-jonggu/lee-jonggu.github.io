@@ -20,7 +20,8 @@
 
 title: JJong
 email: ejjoo7994@gmail.com
-description: >- # this means to ignore newlines until "baseurl:" 비전공자 개발자 되기
+description: >- # this means to ignore newlines until "baseurl:" 
+ 비전공자 개발자 되기
 # baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://lee-jonggu.github.io" 
 github_username: ejjoo
